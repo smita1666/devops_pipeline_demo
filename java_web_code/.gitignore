@@ -5,6 +5,6 @@
 # JVM crash logs
 hs_err_pid*
 
-# IntelliJ IDEA
+# IntelliJ IDEA very good idea
 /.idea/
 /*.iml
